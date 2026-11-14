@@ -11,10 +11,15 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Electronics & Communication student (2024–2027), Diploma in Computer Science & Engineering
+
 - 🚀 Social Media Manager — helping founders & professionals grow on LinkedIn with content that builds trust and gets them found
+
 - 🎬 YouTube SEO — titles, descriptions, tags, thumbnails & growth packs
+
 - 📝 Built a Substack newsletter from 0 → ~100 subscribers
+
 - 📍 Based in Bhavnagar, Gujarat, India
+
 - 🌱 Always learning, always building
 
 ## 🛠️ Tech Stack
