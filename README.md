@@ -100,6 +100,8 @@ System: **POSITION → PILLARS → FORMATS → ENGAGEMENT → REVIEW**
 [![CONNECT ON LINKEDIN](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-yadav-9638452a5)
 [![FOLLOW ON GITHUB](https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajanyadav2509)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajan-portfolio-lemon.vercel.app)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/errajanyadav_/)
+[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917905040238)
 
 <div align="center">
 
