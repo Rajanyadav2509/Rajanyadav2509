@@ -32,11 +32,20 @@
 
 ## 📊 GitHub Stats
 
-[![Rajan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajanyadav2509&theme=github_dark)](https://github.com/Rajanyadav2509)
+<p align="center">
+  <a href="https://github.com/Rajanyadav2509">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajanyadav2509&theme=github_dark" alt="Rajan's GitHub stats" />
+  </a>
+  <a href="https://github.com/Rajanyadav2509">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajanyadav2509&theme=github_dark" alt="Top languages" />
+  </a>
+</p>
 
-[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajanyadav2509&theme=github_dark)](https://github.com/Rajanyadav2509)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rajanyadav2509&theme=dark&hide_border=true)](https://github.com/Rajanyadav2509)
+<p align="center">
+  <a href="https://github.com/Rajanyadav2509">
+    <img src="https://streak-stats.demolab.com/?user=Rajanyadav2509&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## 📈 Client results
 
