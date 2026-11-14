@@ -102,6 +102,7 @@ System: **POSITION → PILLARS → FORMATS → ENGAGEMENT → REVIEW**
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajan-portfolio-lemon.vercel.app)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/errajanyadav_/)
 [![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917905040238)
+[![SUBSTACK](https://img.shields.io/badge/SUBSTACK-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@rajanyadav3)
 
 <div align="center">
 
