@@ -10,11 +10,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Electronics & Communication student (2024–2027), Diploma in Computer Science & Engineering
+- 🎓 B.Tech Electronics & Communication student (2024–2027)
 
-- 🚀 Social Media Manager — helping founders & professionals grow on LinkedIn with content that builds trust and gets them found
+- 📜 Diploma in Computer Science & Engineering (2021–2024)
 
-- 🎬 YouTube SEO — titles, descriptions, tags, thumbnails & growth packs
+- 🚀 Social Media Manager, helping founders & professionals grow on LinkedIn with content that builds trust and gets them found
+
+- 🎬 YouTube SEO: titles, descriptions, tags, thumbnails & growth packs
 
 - 📝 Built a Substack newsletter from 0 → ~100 subscribers
 
@@ -79,14 +81,14 @@
 
 ## 📈 Client results
 
-- **Amarendra Nath Sasmal** — Time Reset Mentor · 1,432 profile views · 1,029 post impressions · 77 search appearances · 3,057 followers
-- **Alexx Roy** — Freedom Lifestyle · 533 profile views · 821 post impressions · 30 search appearances · 2,729 followers
+- **Amarendra Nath Sasmal**, Time Reset Mentor · 1,432 profile views · 1,029 post impressions · 77 search appearances · 3,057 followers
+- **Alexx Roy**, Freedom Lifestyle · 533 profile views · 821 post impressions · 30 search appearances · 2,729 followers
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [rajan-portfolio](https://github.com/Rajanyadav2509/rajan-portfolio) | My portfolio website — admin dashboard, contact form & analytics | Node.js, Express, PostgreSQL |
+| [rajan-portfolio](https://github.com/Rajanyadav2509/rajan-portfolio) | My portfolio website: admin dashboard, contact form & analytics | Node.js, Express, PostgreSQL |
 
 ## 🗓️ My Content System
 
