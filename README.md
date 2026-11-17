@@ -81,14 +81,16 @@
 
 ## 📈 Client results
 
-- **Amarendra Nath Sasmal**, Time Reset Mentor · 1,432 profile views · 1,029 post impressions · 77 search appearances · 3,057 followers
-- **Alexx Roy**, Freedom Lifestyle · 533 profile views · 821 post impressions · 30 search appearances · 2,729 followers
+- **Amarendra Nath Sasmal**, Time Reset Mentor · 1,432 profile views · 1,029 post impressions · 77 search appearances · 3,058 followers
+- **Alexx Roy**, Freedom Lifestyle · 533 profile views · 821 post impressions · 30 search appearances · 2,740 followers
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
 | [rajan-portfolio](https://github.com/Rajanyadav2509/rajan-portfolio) | My portfolio website: admin dashboard, contact form & analytics | Node.js, Express, PostgreSQL |
+| [animated-portfolio](https://github.com/Rajanyadav2509/animated-portfolio) | Animated portfolio website: video-exact dark design, all pages animated & responsive | HTML, CSS, JavaScript |
+| [ai-assistant-app](https://github.com/Rajanyadav2509/ai-assistant-app) | Riya AI assistant app: chat, exam prep & Dost mode with voice and PDF notes | JavaScript, Groq, OpenAI, Gemini |
 
 ## 🗓️ My Content System
 
