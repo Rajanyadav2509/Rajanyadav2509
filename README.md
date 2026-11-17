@@ -92,6 +92,15 @@
 | [animated-portfolio](https://github.com/Rajanyadav2509/animated-portfolio) | Animated portfolio website: video-exact dark design, all pages animated & responsive | HTML, CSS, JavaScript |
 | [ai-assistant-app](https://github.com/Rajanyadav2509/ai-assistant-app) | Riya AI assistant app: chat, exam prep & Dost mode with voice and PDF notes | JavaScript, Groq, OpenAI, Gemini |
 
+
+## Website Previews
+
+![Main portfolio](https://raw.githubusercontent.com/Rajanyadav2509/rajan-portfolio/main/screenshot.png)
+
+![Animated portfolio](https://raw.githubusercontent.com/Rajanyadav2509/animated-portfolio/main/screenshot.png)
+
+![AI assistant app](https://raw.githubusercontent.com/Rajanyadav2509/ai-assistant-app/main/screenshot.png)
+
 ## 🗓️ My Content System
 
 | Day | Focus |
