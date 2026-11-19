@@ -114,7 +114,7 @@
 
 [Live demo — MCQ admin panel](https://mcq-learning-system-raspberry-pi.vercel.app/)
 
-<video src="https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/videos/quiz-demo.mp4" controls width="100%"></video>
+[![Quiz demo — click to watch the full video](quiz-demo-preview.gif)](https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/videos/quiz-demo.mp4)
 
 [Watch the quiz video](https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/videos/quiz-demo.mp4)
 
