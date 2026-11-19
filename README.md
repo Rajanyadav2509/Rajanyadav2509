@@ -110,9 +110,9 @@
 
 ![AI assistant app](https://raw.githubusercontent.com/Rajanyadav2509/ai-assistant-app/main/screenshot.png)
 
-[![MCQ admin panel](https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/screenshots/admin-panel.png)](https://mcq-learning-system-raspberry-pi.vercel.app/)
+[![MCQ admin panel](https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/screenshots/admin-panel.png)](https://mcq-learning-system-raspberry-pi.onrender.com/)
 
-[Live demo — MCQ admin panel](https://mcq-learning-system-raspberry-pi.vercel.app/)
+[Live demo — MCQ admin panel](https://mcq-learning-system-raspberry-pi.onrender.com/)
 
 [![Quiz demo — click to watch the full video](quiz-demo-preview.gif)](https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/videos/quiz-demo.mp4)
 
