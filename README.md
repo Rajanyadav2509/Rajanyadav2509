@@ -36,10 +36,18 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 **Database**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**IoT & Hardware**
+
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat)
 
 **Tools & DevOps**
 
@@ -91,6 +99,7 @@
 | [rajan-portfolio](https://rajan-portfolio-lemon.vercel.app) | My portfolio website: admin dashboard, contact form & analytics | Node.js, Express, PostgreSQL |
 | [animated-portfolio](https://github.com/Rajanyadav2509/animated-portfolio) | Animated portfolio website: video-exact dark design, all pages animated & responsive | HTML, CSS, JavaScript |
 | [ai-assistant-app](https://github.com/Rajanyadav2509/ai-assistant-app) | Riya AI assistant app: chat, exam prep & Dost mode with voice and PDF notes | JavaScript, Groq, OpenAI, Gemini |
+| [mcq-learning-system-raspberry-pi](https://github.com/Rajanyadav2509/mcq-learning-system-raspberry-pi) | Hardware MCQ Learning System on Raspberry Pi: Flask admin panel + Tkinter touch quiz, Design Engineering 2B | Python, Flask, Tkinter, SQLite, Raspberry Pi, IoT |
 
 
 ## Website Previews
@@ -100,6 +109,8 @@
 ![Animated portfolio](https://raw.githubusercontent.com/Rajanyadav2509/animated-portfolio/main/screenshot.png)
 
 ![AI assistant app](https://raw.githubusercontent.com/Rajanyadav2509/ai-assistant-app/main/screenshot.png)
+
+![MCQ admin panel](https://raw.githubusercontent.com/Rajanyadav2509/mcq-learning-system-raspberry-pi/main/screenshots/admin-panel.png)
 
 ## 🗓️ My Content System
 
