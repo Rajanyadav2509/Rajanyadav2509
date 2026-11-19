@@ -88,14 +88,14 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [rajan-portfolio](https://github.com/Rajanyadav2509/rajan-portfolio) | My portfolio website: admin dashboard, contact form & analytics | Node.js, Express, PostgreSQL |
+| [rajan-portfolio](https://rajan-portfolio-lemon.vercel.app) | My portfolio website: admin dashboard, contact form & analytics | Node.js, Express, PostgreSQL |
 | [animated-portfolio](https://github.com/Rajanyadav2509/animated-portfolio) | Animated portfolio website: video-exact dark design, all pages animated & responsive | HTML, CSS, JavaScript |
 | [ai-assistant-app](https://github.com/Rajanyadav2509/ai-assistant-app) | Riya AI assistant app: chat, exam prep & Dost mode with voice and PDF notes | JavaScript, Groq, OpenAI, Gemini |
 
 
 ## Website Previews
 
-![Main portfolio](https://raw.githubusercontent.com/Rajanyadav2509/rajan-portfolio/main/screenshot.png)
+![Main portfolio](main-portfolio-preview.png)
 
 ![Animated portfolio](https://raw.githubusercontent.com/Rajanyadav2509/animated-portfolio/main/screenshot.png)
 
