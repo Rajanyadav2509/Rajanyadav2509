@@ -144,6 +144,8 @@ System: **POSITION → PILLARS → FORMATS → ENGAGEMENT → REVIEW**
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/errajanyadav_/)
 [![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917905040238)
 [![SUBSTACK](https://img.shields.io/badge/SUBSTACK-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@rajanyadav3)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/buildwithrajan)
+[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/techgrowthlab)
 
 <div align="center">
 
