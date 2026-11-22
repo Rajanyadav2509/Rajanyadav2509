@@ -18,7 +18,7 @@
 
 - 🎬 YouTube SEO: titles, descriptions, tags, thumbnails & growth packs
 
-- 📝 Built a Substack newsletter from 0 → ~100 subscribers
+- 🌐 Website Designer — designed & built 6 websites: portfolios, landing pages & a digital wedding invitation
 
 - 📍 Based in Bhavnagar, Gujarat, India
 
