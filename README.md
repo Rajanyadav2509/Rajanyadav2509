@@ -100,8 +100,8 @@
 | [animated-portfolio](https://github.com/Rajanyadav2509/animated-portfolio) | Animated portfolio website: video-exact dark design, all pages animated & responsive | HTML, CSS, JavaScript |
 | [ai-assistant-app](https://github.com/Rajanyadav2509/ai-assistant-app) | Riya AI assistant app: chat, exam prep & Dost mode with voice and PDF notes | JavaScript, Groq, OpenAI, Gemini |
 | [mcq-learning-system-raspberry-pi](https://github.com/Rajanyadav2509/mcq-learning-system-raspberry-pi) | Hardware MCQ Learning System on Raspberry Pi: Flask admin panel + Tkinter touch quiz, Design Engineering 2B | Python, Flask, Tkinter, SQLite, Raspberry Pi, IoT |
-| [preplib-landing](https://muse.ai/s/preplib-landing-preview-exp6xbxk6xspubu/8z9NgEVyx79QUGJuPOXUbRoBbcy3oOsJBP7nlpoSDAo) | PrepLib landing page: virtual study library — live camera-on study rooms, XP rewards, exam communities | HTML, CSS, JavaScript |
-| [wedding-invitation-website](https://muse.ai/s/wedding-invitation-website-nxa6zlxdxmyxnxg5/RyG_WSaj8v4XDa21SQGDo6gCDMXB-ZrOA4HQ5I9Fn68) | Digital wedding invitation: maroon-and-gold patrika scroll, tap-to-open gate, live countdown, gallery | HTML, CSS, JavaScript |
+| [preplib-landing](https://github.com/Rajanyadav2509/preplib-landing) | PrepLib landing page: virtual study library — live camera-on study rooms, XP rewards, exam communities | HTML, CSS, JavaScript |
+| [wedding-invitation-website](https://github.com/Rajanyadav2509/wedding-invitation-website) | Digital wedding invitation: maroon-and-gold patrika scroll, tap-to-open gate, live countdown, gallery | HTML, CSS, JavaScript |
 
 
 ## Website Previews
