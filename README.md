@@ -102,7 +102,7 @@
 | [mcq-learning-system-raspberry-pi](https://github.com/Rajanyadav2509/mcq-learning-system-raspberry-pi) | Hardware MCQ Learning System on Raspberry Pi: Flask admin panel + Tkinter touch quiz, Design Engineering 2B | Python, Flask, Tkinter, SQLite, Raspberry Pi, IoT |
 | [preplib-landing](https://github.com/Rajanyadav2509/preplib-landing) | PrepLib landing page: virtual study library — live camera-on study rooms, XP rewards, exam communities | HTML, CSS, JavaScript |
 | [wedding-invitation-website](https://github.com/Rajanyadav2509/wedding-invitation-website) | Digital wedding invitation: maroon-and-gold patrika scroll, tap-to-open gate, live countdown, gallery | HTML, CSS, JavaScript |
-| [qr-dine-restaurant-management-system](https://github.com/Rajanyadav2509/qr-dine-restaurant-management-system) | QR Dine — QR-based restaurant management system: owner dashboard, QR table ordering with PIN, billing with UPI QR, analytics | HTML, CSS, JavaScript |
+| [qr-dine-restaurant-management-system](https://github.com/Rajanyadav2509/qr-dine-restaurant-management-system) | Bhukhad Bachelors — QR-based restaurant management system: owner dashboard, QR table ordering with PIN, billing with UPI QR, analytics | HTML, CSS, JavaScript |
 | [agency-os-ceo-dashboard](https://github.com/Rajanyadav2509/agency-os-ceo-dashboard) | AgencyOS — CEO dashboard for a digital marketing agency: team, tasks, clients, Meta Ads, finance, leads, social connections | HTML, CSS, JavaScript |
 
 
@@ -132,7 +132,7 @@
 
 ![Wedding patrika](wedding-details.png)
 
-[![QR Dine dashboard](qr-dine-dashboard.png)](https://qr-dine-restaurant-management-system.vercel.app/)
+[![Bhukhad Bachelors dashboard](qr-dine-dashboard.png)](https://qr-dine-restaurant-management-system.vercel.app/)
 
 [![AgencyOS CEO dashboard](agencyos-dashboard.png)](https://agency-os-ceo-dashboard.vercel.app/)
 
